@@ -59,5 +59,5 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [This is a test post.](https://dev.to/oguzz0804/this-is-a-test-post-4nga)
 <!-- BLOG-POST-LIST:END -->
