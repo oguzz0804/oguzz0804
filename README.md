@@ -31,7 +31,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I consolidate my knowledge and read tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oğuzhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-%C3%B6tle%C5%9F-2410a121b/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oğuzhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oğuzhan-ötleş)
 
 ---
 
@@ -59,8 +59,3 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![GitHub Streak](https://streak-stats.demolab.com?user=oguzz0804&theme=black-ice)](https://git.io/streak-stats)
 
 ---
-
-✍️ Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [This is a test post.](https://dev.to/oguzz0804/this-is-a-test-post-4nga)
-<!-- BLOG-POST-LIST:END -->
