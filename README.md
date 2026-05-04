@@ -30,8 +30,8 @@
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I consolidate my knowledge and read tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oğuzhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oğuzhan-ötleş)
+- :zap: In my free time, I take short.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oğuzhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhanotles/)
 
 ---
 
